@@ -259,3 +259,11 @@
     background: black;
 
 }
+
+.icons-box{
+    width: 22px;
+    position: absolute;
+    right: 45px;
+    bottom: 50px;
+    text-align: center; 
+ }
