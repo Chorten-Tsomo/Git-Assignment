@@ -259,6 +259,7 @@
     background: black;
 
 }
+
 .icons-box{
     width: 22px;
     position: absolute;
@@ -266,4 +267,5 @@
     bottom: 50px;
     text-align: center; 
     color: blue;
+    color: red;
  }
