@@ -265,6 +265,7 @@
     position: absolute;
     right: 45px;
     bottom: 50px;
-    text-align: center;
+    text-align: center; 
+    color: blue;
     color: red;
  }
